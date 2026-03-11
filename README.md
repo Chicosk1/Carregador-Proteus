@@ -18,7 +18,7 @@ O circuito recebe uma tensão alternada do secundário de um transformador, conv
 
 ---
 
-## Lista de Componentes (BOM)
+## Lista de Componentes
 
 * **J1 (SIL-100-02):** Conector de entrada para a tensão AC do transformador.
 * **BR1 (BRIDGE):** Ponte de diodos para retificação de onda completa.
